@@ -1,5 +1,10 @@
 # Hyperheadset
 
+[![PyPI](https://img.shields.io/pypi/v/hyperheadset)](https://pypi.org/project/hyperheadset/)
+[![Python](https://img.shields.io/pypi/pyversions/hyperheadset)](https://pypi.org/project/hyperheadset/)
+[![License](https://img.shields.io/pypi/l/hyperheadset)](https://pypi.org/project/hyperheadset/)
+
+
 A small Python CLI and library for reading live status data from the Astro
 A50 base station over HID.
 

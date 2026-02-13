@@ -33,7 +33,11 @@ Right now it focuses on reading states.
 
 ## Install
 
-Not on PyPI (yet).
+From PyPI:
+
+```bash
+pip install hyperheadset
+```
 
 Local install:
 

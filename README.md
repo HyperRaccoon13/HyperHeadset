@@ -61,12 +61,12 @@ hyperheadset
 
 Some common flags:
 
-- Battery only → `--battery`
-- JSON output → `--json`
-- Pretty JSON → `--json --p`
-- Watch mode → `--watch`
-- Only show changes (watch mode) → `--changes-only`
-- List matching HID devices → `--device-list`
+- Battery only: `--battery`
+- JSON output: `--json`
+- Pretty JSON: `--json --p`
+- Watch mode: `--watch`
+- Only show changes (watch mode): `--changes-only`
+- List matching HID devices: `--device-list`
 
 ### Examples
 
